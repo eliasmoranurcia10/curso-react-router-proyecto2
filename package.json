@@ -39,7 +39,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "homepage": "https//eliasmoranurcia10.github.io/curso-react-router-proyecto2"
   },
   "homepage": "https://eliasmoranurcia10.github.io/curso-react-router-proyecto2"
 }
